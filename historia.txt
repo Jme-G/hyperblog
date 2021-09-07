@@ -1,2 +1,3 @@
-Probando bien por primera vez git.
-Ahora lo estoy modificando por segunda vez.
+Probando bien por segunda vez vez git modifique esta linea.
+Ahora lo estoy modificando por terceravez  vez esta linea la modifique.
+Soy una nueva linea.
